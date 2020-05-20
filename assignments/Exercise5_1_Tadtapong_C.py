@@ -1,0 +1,6 @@
+f = int(input("ใส่ตัวเลข : "))
+d = int(input("ใส่ตัวเลขที่สอง : "))
+print(f,"+",d, "=", f + d)
+print(f,"-",d, "=", f - d)
+print(f,"*",d, "=", f * d)
+print(f,"/",d, "=", f / d)
