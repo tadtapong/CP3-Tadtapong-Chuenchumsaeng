@@ -13,7 +13,7 @@ if usernameinput == "admin" and passwordinput == "123":
     print("8. Deje Card       1       9,675,796 Zeny")
     item = int(input("Choose Your Item (Number) : "))
     amount = int(input("How many Item : "))
-    amethyst = 21,789
+    amethyst = 21789
     pkcard = 442757
     firealloy = 45450
     memento = 468
@@ -29,7 +29,7 @@ if usernameinput == "admin" and passwordinput == "123":
     elif item == 3:
         print("Total Zeny : ", firealloy*amount)
     elif item == 4:
-        print("Total Zeny : ", memento * amount)
+        print("Total Zeny : ", memento*amount)
     elif item == 5:
         print("Total Zeny : ", magicplate*amount)
     elif item == 6:
