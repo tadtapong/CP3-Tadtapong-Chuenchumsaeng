@@ -13,7 +13,7 @@ if usernameinput == "admin" and passwordinput == "123":
     print("8. Deje Card       1       9,675,796 Zeny")
     item = int(input("Choose Your Item (Number) : "))
     amount = int(input("How many Item : "))
-    amethyst = 21,789
+    amethyst = 21789
     pkcard = 442757
     firealloy = 45450
     memento = 468
