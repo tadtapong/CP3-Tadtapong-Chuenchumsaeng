@@ -29,7 +29,7 @@ if usernameinput == "admin" and passwordinput == "123":
     elif item == 3:
         print("Total Zeny : ", firealloy*amount)
     elif item == 4:
-        print("Total Zeny : ", memento*amount)
+        print("Total Zeny : ", memento * amount)
     elif item == 5:
         print("Total Zeny : ", magicplate*amount)
     elif item == 6:
